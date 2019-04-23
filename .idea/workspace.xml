@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="913bcf5c-dec6-4077-a811-73b8ced75173" name="Default Changelist" comment="" />
+    <list default="true" id="913bcf5c-dec6-4077-a811-73b8ced75173" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Square.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +26,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="17" />
+          <entry key="java" value="46" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -30,20 +34,20 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="46" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="151" />
+          <entry key="java" value="245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="151" />
+          <entry key="JAVA" value="245" />
         </counts>
       </usages-collector>
     </session>
@@ -51,28 +55,47 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/ShapeFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/FactoryPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ColorFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/creationalpattern/factorypattern/ShapeFactoryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/FactoryProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="45">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,9 +108,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -100,12 +123,26 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/FactoryPatternDemo.java" />
         <option value="$PROJECT_DIR$/DesignPattern.iml" />
         <option value="$PROJECT_DIR$/src/test/java/com/creationalpattern/factorypattern/ShapeFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/Color.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/shape/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Green.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Red.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Blue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ColorFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/FactoryProducer.java" />
       </list>
     </option>
   </component>
@@ -169,7 +206,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="creationalpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactorypattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creationalpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="color" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creationalpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactorypattern" type="462c0819:PsiDirectoryNode" />
+              <item name="shape" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -224,7 +281,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShapeFactoryTest">
+  <component name="RunManager" selected="Application.AbstractFactoryPatternDemo">
+    <configuration name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.creationalpattern.abstractfactorypattern.AbstractFactoryPatternDemo" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.creationalpattern.abstractfactorypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.creationalpattern.factorypattern.FactoryPatternDemo" />
       <module name="DesignPattern" />
@@ -255,11 +325,13 @@
     <list>
       <item itemvalue="JUnit.ShapeFactoryTest" />
       <item itemvalue="Application.FactoryPatternDemo" />
+      <item itemvalue="Application.AbstractFactoryPatternDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ShapeFactoryTest" />
+        <item itemvalue="Application.AbstractFactoryPatternDemo" />
         <item itemvalue="Application.FactoryPatternDemo" />
+        <item itemvalue="JUnit.ShapeFactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +345,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555984844373</updated>
-      <workItem from="1555984855950" duration="2026000" />
+      <workItem from="1555984855950" duration="4515000" />
     </task>
     <servers />
   </component>
@@ -287,9 +359,12 @@
     <history-entry file="ShapeFactoryTest - 2019.04.22 at 19h 38m 45s.xml">
       <configuration name="ShapeFactoryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ShapeFactoryTest - 2019.04.22 at 19h 39m 17s.xml">
+      <configuration name="ShapeFactoryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2026000" />
+    <option name="totallyTimeSpent" value="4515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,7 +381,7 @@
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16506922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16506922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32953367" />
@@ -315,7 +390,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="4" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -374,41 +442,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/ShapeFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/creationalpattern/factorypattern/ShapeFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/FactoryPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/shape/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="55" />
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/shape/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/creationalpattern/factorypattern/ShapeFactoryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Green.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/shape/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/color/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ColorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/FactoryProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
         </state>
       </provider>
     </entry>
