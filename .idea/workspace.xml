@@ -26,7 +26,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="118" />
+          <entry key="java" value="124" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -34,7 +34,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="118" />
+          <entry key="JAVA" value="124" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -42,13 +42,13 @@
         <counts>
           <entry key="dummy" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="368" />
+          <entry key="java" value="373" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="368" />
+          <entry key="JAVA" value="373" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -57,7 +57,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/Shape.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
@@ -66,49 +66,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/ShapeDecorator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/ShapeMaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/RedShapeDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/DecoratorPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -137,12 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/singletonpattern/DCLSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/singletonpattern/BillPughSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Packing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Wrapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Bottle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Burger.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/VegBurger.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/ChickenBurger.java" />
@@ -188,6 +160,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/ShapeDecorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/RedShapeDecorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/DecoratorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Square.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java" />
       </list>
     </option>
   </component>
@@ -270,7 +248,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="structuralpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="decoratorpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -325,20 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompositePatternDemo">
-    <configuration name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.creationalpattern.abstractfactorypattern.AbstractFactoryPatternDemo" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.creationalpattern.abstractfactorypattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FacadePatternDemo">
     <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.structuralpattern.adapterpattern.AdapterPatternDemo" />
       <module name="DesignPattern" />
@@ -391,20 +356,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.structuralpattern.facadepattern.FacadePatternDemo" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.structuralpattern.facadepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AbstractFactoryPatternDemo" />
       <item itemvalue="Application.AdapterPatternDemo" />
       <item itemvalue="Application.BridgePatternDemo" />
       <item itemvalue="Application.CriteriaPatternDemo" />
       <item itemvalue="Application.CompositePatternDemo" />
+      <item itemvalue="Application.FacadePatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FacadePatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
         <item itemvalue="Application.CriteriaPatternDemo" />
         <item itemvalue="Application.BridgePatternDemo" />
         <item itemvalue="Application.AdapterPatternDemo" />
-        <item itemvalue="Application.AbstractFactoryPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +400,7 @@
       <workItem from="1556055211708" duration="649000" />
       <workItem from="1556140082180" duration="718000" />
       <workItem from="1557685963776" duration="12451000" />
-      <workItem from="1557770810169" duration="2513000" />
+      <workItem from="1557770810169" duration="3318000" />
     </task>
     <servers />
   </component>
@@ -441,7 +419,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27915000" />
+    <option name="totallyTimeSpent" value="28720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,53 +465,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Meal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/ColdDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Burger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -894,10 +825,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/DecoratorPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/RedShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -914,30 +865,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/RedShapeDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/decoratorpattern/DecoratorPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/ShapeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
