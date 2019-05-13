@@ -26,7 +26,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="124" />
+          <entry key="java" value="128" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -34,7 +34,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="124" />
+          <entry key="JAVA" value="128" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -42,13 +42,13 @@
         <counts>
           <entry key="dummy" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="373" />
+          <entry key="java" value="384" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="373" />
+          <entry key="JAVA" value="384" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -57,36 +57,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Shape.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/ShapeMaker.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/FlyweightPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,10 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Burger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/VegBurger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/ChickenBurger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Coke.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/ColdDrink.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/Pepsi.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/MealBuilder.java" />
@@ -166,6 +181,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Circle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/ShapeMaker.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/FlyweightPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -248,7 +267,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="structuralpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="facadepattern" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweightpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -303,20 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FacadePatternDemo">
-    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.structuralpattern.adapterpattern.AdapterPatternDemo" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.structuralpattern.adapterpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FlyweightPatternDemo">
     <configuration name="BridgePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.structuralpattern.bridgepattern.BridgePatternDemo" />
       <module name="DesignPattern" />
@@ -369,20 +375,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FlyweightPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.structuralpattern.flyweightpattern.FlyweightPatternDemo" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.structuralpattern.flyweightpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AdapterPatternDemo" />
       <item itemvalue="Application.BridgePatternDemo" />
       <item itemvalue="Application.CriteriaPatternDemo" />
       <item itemvalue="Application.CompositePatternDemo" />
       <item itemvalue="Application.FacadePatternDemo" />
+      <item itemvalue="Application.FlyweightPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlyweightPatternDemo" />
         <item itemvalue="Application.FacadePatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
         <item itemvalue="Application.CriteriaPatternDemo" />
         <item itemvalue="Application.BridgePatternDemo" />
-        <item itemvalue="Application.AdapterPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +419,7 @@
       <workItem from="1556055211708" duration="649000" />
       <workItem from="1556140082180" duration="718000" />
       <workItem from="1557685963776" duration="12451000" />
-      <workItem from="1557770810169" duration="3318000" />
+      <workItem from="1557770810169" duration="4259000" />
     </task>
     <servers />
   </component>
@@ -419,7 +438,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28720000" />
+    <option name="totallyTimeSpent" value="29661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,34 +484,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/factorypattern/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/MealBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/builderpattern/BuilderPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/ColorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/creationalpattern/abstractfactorypattern/FactoryProducer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -894,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -909,6 +893,13 @@
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -927,10 +918,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/FacadePatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/facadepattern/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/structuralpattern/flyweightpattern/FlyweightPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
