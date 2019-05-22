@@ -16,21 +16,22 @@
     <session id="-872736300">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="4" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="235" />
+          <entry key="java" value="242" />
           <entry key="md" value="1" />
           <entry key="xml" value="2" />
         </counts>
@@ -39,7 +40,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="235" />
+          <entry key="JAVA" value="242" />
           <entry key="Markdown" value="1" />
           <entry key="XML" value="2" />
         </counts>
@@ -48,13 +49,13 @@
         <counts>
           <entry key="dummy" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="608" />
+          <entry key="java" value="630" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="608" />
+          <entry key="JAVA" value="630" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -63,87 +64,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Filter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/InitialContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/DebugFilter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Cache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="225">
+              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Target.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/ServiceLocator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/FilterChain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/FilterManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -172,13 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/OperationAdd.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/OperationSubstract.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/OperationMultiply.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/Context.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/StrategyPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/Game.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/Cricket.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/Football.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/TemplatePatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/behavioralpattern/visitorpattern/ComputerPart.java" />
@@ -223,6 +181,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/FilterManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/DebugFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/InitialContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/ServiceLocator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Cache.java" />
       </list>
     </option>
   </component>
@@ -314,7 +279,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="miscellaneouspattern" type="462c0819:PsiDirectoryNode" />
-              <item name="interceptingfilterpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="servicelocatorpattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
@@ -371,20 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterceptingFilterDemo">
-    <configuration name="BusinessDelegatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.miscellaneouspattern.businessdelegatepattern.BusinessDelegatePatternDemo" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miscellaneouspattern.businessdelegatepattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ServiceLocatorPatternDemo">
     <configuration name="CompositeEntityPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.miscellaneouspattern.compositeentitypattern.CompositeEntityPatternDemo" />
       <module name="DesignPattern" />
@@ -437,20 +389,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceLocatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miscellaneouspattern.servicelocatorpattern.ServiceLocatorPatternDemo" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miscellaneouspattern.servicelocatorpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BusinessDelegatePatternDemo" />
       <item itemvalue="Application.CompositeEntityPatternDemo" />
       <item itemvalue="Application.DaoPatternDemo" />
       <item itemvalue="Application.FrontControllerPatternDemo" />
       <item itemvalue="Application.InterceptingFilterDemo" />
+      <item itemvalue="Application.ServiceLocatorPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ServiceLocatorPatternDemo" />
         <item itemvalue="Application.InterceptingFilterDemo" />
         <item itemvalue="Application.FrontControllerPatternDemo" />
         <item itemvalue="Application.DaoPatternDemo" />
         <item itemvalue="Application.CompositeEntityPatternDemo" />
-        <item itemvalue="Application.BusinessDelegatePatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +441,8 @@
       <workItem from="1558151103169" duration="1350000" />
       <workItem from="1558233558765" duration="1052000" />
       <workItem from="1558313532535" duration="926000" />
-      <workItem from="1558400063764" duration="949000" />
+      <workItem from="1558400063764" duration="1372000" />
+      <workItem from="1558493843927" duration="842000" />
     </task>
     <servers />
   </component>
@@ -495,7 +461,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54660000" />
+    <option name="totallyTimeSpent" value="55925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,7 +476,7 @@
     <frame x="1280" y="-107" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20926517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2113951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -541,55 +507,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/OperationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/strategypattern/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/Cricket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/Football.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/templatepattern/TemplatePatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/behavioralpattern/visitorpattern/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -868,13 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -885,6 +795,65 @@
             <element signature="e#276#277#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/DebugFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -899,56 +868,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/FilterChain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/InitialContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/interceptingfilterpattern/DebugFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Service1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/ServiceLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miscellaneouspattern/servicelocatorpattern/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
