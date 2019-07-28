@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90c6d9b7-753d-4fb0-a41b-ba05a08fb26c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/AbstractLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/AbstractLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ChainPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ChainPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ConsoleLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ConsoleLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ErrorLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ErrorLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/FileLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/commandpattern/Broker.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/commandpattern/Broker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/commandpattern/BuyStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/commandpattern/BuyStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/commandpattern/CommandPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/commandpattern/CommandPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/commandpattern/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/commandpattern/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/commandpattern/SellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/commandpattern/SellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/commandpattern/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/commandpattern/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/AndExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/AndExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/InterpreterPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/InterpreterPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/OrExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/OrExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/interpreterpattern/TerminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/IteratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/NameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/iteratorpattern/NameRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mediatorpattern/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mediatorpattern/ChatRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mediatorpattern/MediatorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mediatorpattern/MediatorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mediatorpattern/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mediatorpattern/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mementopattern/CareTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mementopattern/CareTaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mementopattern/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mementopattern/Memento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mementopattern/MementoPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mementopattern/MementoPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/mementopattern/Originator.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/mementopattern/Originator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/AbstractCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/AbstractCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/CustomerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/CustomerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/NullCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/NullCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/NullPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/NullPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/RealCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/nullobjectpattern/RealCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/observerpattern/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/observerpattern/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/observerpattern/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/observerpattern/HexaObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/observerpattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/observerpattern/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/observerpattern/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/observerpattern/ObserverPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/observerpattern/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/observerpattern/OctalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/observerpattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/observerpattern/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/statepattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/statepattern/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/statepattern/StartState.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/statepattern/StartState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/statepattern/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/statepattern/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/statepattern/StatePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/statepattern/StatePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/statepattern/StopState.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/statepattern/StopState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/strategypattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/strategypattern/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/strategypattern/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/strategypattern/OperationAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/strategypattern/OperationMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/strategypattern/OperationMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/strategypattern/OperationSubstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/strategypattern/OperationSubstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/strategypattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/strategypattern/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/strategypattern/StrategyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/strategypattern/StrategyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/templatepattern/Cricket.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/templatepattern/Cricket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/templatepattern/Football.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/templatepattern/Football.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/templatepattern/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/templatepattern/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/templatepattern/TemplatePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/templatepattern/TemplatePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/ComputerPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/ComputerPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/ComputerPartDisplayVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/ComputerPartDisplayVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/ComputerPartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/ComputerPartVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralpattern/visitorpattern/VisitorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralpattern/visitorpattern/VisitorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Blue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Green.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/color/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/abstractfactorypattern/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/BuilderPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/BuilderPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Burger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/ChickenBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/ChickenBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Coke.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Coke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/ColdDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/ColdDrink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Meal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/MealBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/MealBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Packing.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Packing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Pepsi.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Pepsi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/VegBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/VegBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/builderpattern/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/builderpattern/Wrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/factorypattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/factorypattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/factorypattern/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/factorypattern/FactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/factorypattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/factorypattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/factorypattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/factorypattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/factorypattern/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/factorypattern/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/factorypattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/factorypattern/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/prototypepattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/prototypepattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/prototypepattern/PrototypePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/prototypepattern/PrototypePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/prototypepattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/prototypepattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/prototypepattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/prototypepattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/prototypepattern/ShapeCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/prototypepattern/ShapeCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/prototypepattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/prototypepattern/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/singletonpattern/BillPughSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/singletonpattern/BillPughSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/singletonpattern/DCLSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/singletonpattern/DCLSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creationalpattern/singletonpattern/EagerInitializedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/creationalpattern/singletonpattern/EagerInitializedSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessDelegatePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessDelegatePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessLookUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessLookUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/BusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/EJBService.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/EJBService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/JMSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/businessdelegatepattern/JMSService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/CoarseGrainedObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/CoarseGrainedObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/CompositeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/CompositeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/CompositeEntityPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/CompositeEntityPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/DependentObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/DependentObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/DependentObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/compositeentitypattern/DependentObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/daopattern/DaoPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/daopattern/DaoPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/daopattern/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/daopattern/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/daopattern/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/daopattern/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/daopattern/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/daopattern/StudentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/Dispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/FrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/FrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/FrontControllerPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/FrontControllerPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/HomeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/HomeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/frontcontrollerpattern/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/DebugFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/DebugFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/FilterChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/FilterChain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/FilterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/FilterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/interceptingfilterpattern/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/MVCPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/MVCPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/mvcpattern/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/InitialContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/InitialContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Service1.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Service1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Service2.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/Service2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/ServiceLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/ServiceLocator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/transferobjectpattern/StudentBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/transferobjectpattern/StudentBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/transferobjectpattern/StudentVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/transferobjectpattern/StudentVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneouspattern/transferobjectpattern/TransferObjectPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneouspattern/transferobjectpattern/TransferObjectPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/AdapterPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/AdapterPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/AdvancedMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/AdvancedMediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/AudioPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/AudioPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/MediaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/MediaAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/MediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/MediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/Mp4Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/Mp4Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/adapterpattern/VlcPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/adapterpattern/VlcPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/bridgepattern/BridgePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/bridgepattern/BridgePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/bridgepattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/bridgepattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/bridgepattern/DrawAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/bridgepattern/DrawAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/bridgepattern/GreenCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/bridgepattern/GreenCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/bridgepattern/RedCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/bridgepattern/RedCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/bridgepattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/bridgepattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/compositepattern/CompositePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/compositepattern/CompositePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/compositepattern/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/compositepattern/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/decoratorpattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/decoratorpattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/decoratorpattern/DecoratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/decoratorpattern/DecoratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/decoratorpattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/decoratorpattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/decoratorpattern/RedShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/decoratorpattern/RedShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/decoratorpattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/decoratorpattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/decoratorpattern/ShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/decoratorpattern/ShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/facadepattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/facadepattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/facadepattern/FacadePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/facadepattern/FacadePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/facadepattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/facadepattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/facadepattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/facadepattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/facadepattern/ShapeMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/facadepattern/ShapeMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/facadepattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/facadepattern/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/AndCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/AndCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/Criteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/Criteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaFemale.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaFemale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaMale.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaMale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaSingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/CriteriaSingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/OrCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/OrCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/filterpattern/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/filterpattern/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/flyweightpattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/flyweightpattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/flyweightpattern/FlyweightPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/flyweightpattern/FlyweightPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/flyweightpattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/flyweightpattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/flyweightpattern/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/flyweightpattern/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/proxypattern/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/proxypattern/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/proxypattern/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/proxypattern/ProxyImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/proxypattern/ProxyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/proxypattern/ProxyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structuralpattern/proxypattern/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/structuralpattern/proxypattern/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/java/com/creationalpattern/factorypattern/ShapeFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/java/com/creationalpattern/factorypattern/ShapeFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/AbstractLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/AbstractLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/ChainPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/ChainPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/ConsoleLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/ConsoleLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/ErrorLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/ErrorLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/FileLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/chainofresponsibilitypattern/FileLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/Broker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/Broker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/BuyStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/BuyStock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/CommandPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/CommandPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/SellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/SellStock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/commandpattern/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/AndExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/AndExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/InterpreterPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/InterpreterPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/OrExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/OrExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/TerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/interpreterpattern/TerminalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/Container.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/Container.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/Iterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/IteratorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/IteratorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/NameRepository$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/NameRepository$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/NameRepository$NameIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/NameRepository$NameIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/NameRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/iteratorpattern/NameRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mediatorpattern/ChatRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mediatorpattern/ChatRoom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mediatorpattern/MediatorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mediatorpattern/MediatorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mediatorpattern/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mediatorpattern/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/CareTaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/CareTaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/Memento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/MementoPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/MementoPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/mementopattern/Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/AbstractCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/AbstractCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/CustomerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/CustomerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/NullCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/NullCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/NullPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/NullPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/RealCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/nullobjectpattern/RealCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/BinaryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/BinaryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/HexaObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/HexaObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/ObserverPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/ObserverPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/OctalObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/OctalObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/observerpattern/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/StartState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/StartState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/StatePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/StatePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/StopState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/statepattern/StopState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/OperationAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/OperationAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/OperationMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/OperationMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/OperationSubstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/OperationSubstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/Strategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/StrategyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/strategypattern/StrategyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/Cricket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/Cricket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/Football.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/Football.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/TemplatePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/templatepattern/TemplatePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/ComputerPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/ComputerPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/ComputerPartDisplayVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/ComputerPartDisplayVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/ComputerPartVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/ComputerPartVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Keyboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/VisitorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/behavioralpattern/visitorpattern/VisitorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/AbstractFactoryPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/ColorFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/ColorFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/FactoryProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/FactoryProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Blue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Blue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Green.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Red.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/color/Red.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/abstractfactorypattern/shape/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Bottle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Bottle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/BuilderPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/BuilderPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Burger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Burger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/ChickenBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/ChickenBurger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Coke.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Coke.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/ColdDrink.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/ColdDrink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Meal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Meal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/MealBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/MealBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Packing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Packing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Pepsi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Pepsi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/VegBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/VegBurger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Wrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/builderpattern/Wrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/FactoryPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/FactoryPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/factorypattern/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/PrototypePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/PrototypePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/ShapeCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/ShapeCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/prototypepattern/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/BillPughSingleton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/BillPughSingleton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/BillPughSingleton$SingletonHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/BillPughSingleton$SingletonHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/BillPughSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/BillPughSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/DCLSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/DCLSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/EagerInitializedSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/creationalpattern/singletonpattern/EagerInitializedSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessDelegate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessDelegate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessDelegatePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessDelegatePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessLookUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessLookUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/BusinessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/EJBService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/EJBService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/JMSService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/businessdelegatepattern/JMSService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/CoarseGrainedObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/CoarseGrainedObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/CompositeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/CompositeEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/CompositeEntityPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/CompositeEntityPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/DependentObject1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/DependentObject1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/DependentObject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/compositeentitypattern/DependentObject2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/DaoPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/DaoPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/StudentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/StudentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/StudentDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/daopattern/StudentDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/Dispatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/Dispatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/FrontController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/FrontController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/FrontControllerPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/FrontControllerPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/HomeView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/HomeView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/StudentView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/frontcontrollerpattern/StudentView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/AuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/DebugFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/DebugFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/FilterChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/FilterChain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/FilterManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/FilterManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/InterceptingFilterDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/interceptingfilterpattern/Target.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/MVCPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/MVCPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/StudentView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/mvcpattern/StudentView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Cache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/InitialContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/InitialContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Service1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Service1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Service2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/Service2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/ServiceLocator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/ServiceLocator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/servicelocatorpattern/ServiceLocatorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/transferobjectpattern/StudentBO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/transferobjectpattern/StudentBO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/transferobjectpattern/StudentVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/transferobjectpattern/StudentVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/transferobjectpattern/TransferObjectPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/miscellaneouspattern/transferobjectpattern/TransferObjectPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/AdapterPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/AdapterPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/AdvancedMediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/AdvancedMediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/AudioPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/AudioPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/MediaAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/MediaAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/MediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/MediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/Mp4Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/Mp4Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/VlcPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/adapterpattern/VlcPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/BridgePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/BridgePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/DrawAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/DrawAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/GreenCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/GreenCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/RedCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/RedCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/bridgepattern/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/compositepattern/CompositePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/compositepattern/CompositePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/compositepattern/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/compositepattern/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/DecoratorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/DecoratorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/RedShapeDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/RedShapeDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/ShapeDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/decoratorpattern/ShapeDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/FacadePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/FacadePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/ShapeMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/ShapeMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/facadepattern/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/AndCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/AndCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaFemale.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaFemale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaMale.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaMale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaSingle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/CriteriaSingle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/OrCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/OrCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/filterpattern/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/FlyweightPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/FlyweightPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/flyweightpattern/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/ProxyImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/ProxyImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/ProxyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/ProxyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/RealImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/classes/com/structuralpattern/proxypattern/RealImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../target/test-classes/com/creationalpattern/factorypattern/ShapeFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../target/test-classes/com/creationalpattern/factorypattern/ShapeFactoryTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ErrorLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creationalpattern/builderpattern/BuilderPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/creationalpattern/builderpattern/BuilderPatternDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/com.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1281" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="creationalpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="creationalpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="builderpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c6d9b7-753d-4fb0-a41b-ba05a08fb26c" name="Default Changelist" comment="" />
+      <created>1564178600429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564178600429</updated>
+      <workItem from="1564178601646" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="678000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/behavioralpattern/chainofresponsibilitypattern/ErrorLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creationalpattern/builderpattern/BuilderPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

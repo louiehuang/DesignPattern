@@ -11,7 +11,8 @@ public class BuilderPatternDemo {
 
         Meal nonVegMeal = mealBuilder.prepareNonVegMeal();
         System.out.println("\nNon-Veg Meal");
-        nonVegMeal.showItems();
+        nonVegMeal.showItems(); 
         System.out.println("Total Cost: " +nonVegMeal.getCost());
     }
 }
+
